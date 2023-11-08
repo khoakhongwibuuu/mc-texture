@@ -1,0 +1,188 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "Сandle holder",
+			"from": [4.5, 0, 6.5],
+			"to": [7.5, 1, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
+			"faces": {
+				"north": {"uv": [13, 9, 16, 10], "texture": "#all"},
+				"east": {"uv": [13, 9, 16, 10], "texture": "#all"},
+				"south": {"uv": [13, 9, 16, 10], "texture": "#all"},
+				"west": {"uv": [13, 9, 16, 10], "texture": "#all"},
+				"up": {"uv": [13, 0, 16, 3], "texture": "#all"},
+				"down": {"uv": [13, 0, 16, 3], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Wax up",
+			"from": [4.9, 1.9, 6.9],
+			"to": [7.1, 5.1, 9.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
+			"faces": {
+				"north": {"uv": [7, 0, 9, 3], "texture": "#all"},
+				"east": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
+				"south": {"uv": [7, 0, 9, 3], "texture": "#all"},
+				"west": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
+				"up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Base",
+			"from": [5, 1, 7],
+			"to": [7, 5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 4], "texture": "#all"},
+				"east": {"uv": [0, 0, 2, 4], "texture": "#all"},
+				"south": {"uv": [0, 0, 2, 4], "texture": "#all"},
+				"west": {"uv": [2, 0, 4, 4], "texture": "#all"},
+				"up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Wick",
+			"from": [5.75, 5, 7.75],
+			"to": [6.25, 6, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
+			"faces": {
+				"north": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"east": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"south": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"west": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"up": {"uv": [4.5, 5, 5, 5.5], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Сandle holder",
+			"from": [7.5, 0, 5.5],
+			"to": [10.5, 1.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
+			"faces": {
+				"north": {"uv": [13, 7, 16, 8.5], "texture": "#all"},
+				"east": {"uv": [13, 7, 16, 8.5], "texture": "#all"},
+				"south": {"uv": [13, 7, 16, 8.5], "texture": "#all"},
+				"west": {"uv": [13, 7, 16, 8.5], "texture": "#all"},
+				"up": {"uv": [13, 0, 16, 3], "texture": "#all"},
+				"down": {"uv": [13, 0, 16, 3], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Wax up",
+			"from": [7.9, 2.9, 5.9],
+			"to": [10.1, 6.1, 8.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
+			"faces": {
+				"north": {"uv": [7, 0, 9, 3], "texture": "#all"},
+				"east": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
+				"south": {"uv": [7, 0, 9, 3], "texture": "#all"},
+				"west": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
+				"up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Base",
+			"from": [8, 1, 6],
+			"to": [10, 6, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 5], "texture": "#all"},
+				"east": {"uv": [0, 0, 2, 5], "texture": "#all"},
+				"south": {"uv": [0, 0, 2, 5], "texture": "#all"},
+				"west": {"uv": [2, 0, 4, 5], "texture": "#all"},
+				"up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Wick",
+			"from": [8.75, 6, 6.75],
+			"to": [9.25, 7, 7.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
+			"faces": {
+				"north": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"east": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"south": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"west": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"up": {"uv": [4.5, 5, 5, 5.5], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Сandle holder",
+			"from": [6.5, 0, 8.5],
+			"to": [9.5, 0.5, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
+			"faces": {
+				"north": {"uv": [13, 9.5, 16, 10], "texture": "#all"},
+				"east": {"uv": [13, 9.5, 16, 10], "texture": "#all"},
+				"south": {"uv": [13, 9.5, 16, 10], "texture": "#all"},
+				"west": {"uv": [13, 9.5, 16, 10], "texture": "#all"},
+				"up": {"uv": [13, 0, 16, 3], "texture": "#all"},
+				"down": {"uv": [13, 0, 16, 3], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Wax up",
+			"from": [6.9, 0.9, 8.9],
+			"to": [9.1, 4.1, 11.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
+			"faces": {
+				"north": {"uv": [7, 0, 9, 3], "texture": "#all"},
+				"east": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
+				"south": {"uv": [7, 0, 9, 3], "texture": "#all"},
+				"west": {"uv": [9.5, 0, 11.5, 3], "texture": "#all"},
+				"up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Base",
+			"from": [7, 0.5, 9],
+			"to": [9, 4, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 3.5], "texture": "#all"},
+				"east": {"uv": [0, 0, 2, 3.5], "texture": "#all"},
+				"south": {"uv": [0, 0, 2, 3.5], "texture": "#all"},
+				"west": {"uv": [2, 0, 4, 3.5], "texture": "#all"},
+				"up": {"uv": [4.5, 0, 6.5, 2], "texture": "#all"}
+			}
+		},
+		{
+			"name": "Wick",
+			"from": [7.75, 4, 9.75],
+			"to": [8.25, 5, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.5, 0]},
+			"faces": {
+				"north": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"east": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"south": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"west": {"uv": [4.5, 5, 5, 6], "texture": "#all"},
+				"up": {"uv": [4.5, 5, 5, 5.5], "texture": "#all"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "candle1",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3]
+		},
+		{
+			"name": "candle2",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [4, 5, 6, 7]
+		},
+		{
+			"name": "candle3",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [8, 9, 10, 11]
+		}
+	]
+}
