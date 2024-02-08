@@ -1,43 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"textures": {
-		"1": "block/stripped_dark_oak_log",
-		"particle": "block/stripped_dark_oak_log"
-	},
-	"elements": [
-		{
-			"from": [7, -2, 5],
-			"to": [9, 8, 7],
-			"rotation": {"angle": -45, "axis": "x", "origin": [8, 2, 0]},
-			"faces": {
-				"north": {"uv": [0, 0, 10, 2], "rotation": 90, "texture": "#1"},
-				"east": {"uv": [0, 0, 10, 2], "rotation": 90, "texture": "#1"},
-				"south": {"uv": [0, 0, 10, 2], "rotation": 90, "texture": "#1"},
-				"west": {"uv": [0, 0, 10, 2], "rotation": 90, "texture": "#1"},
-				"up": {"uv": [0, 0, 2, 2], "rotation": 180, "texture": "#1"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#1"}
-			}
-		},
-		{
-			"from": [6.5, 10, 0],
-			"to": [9.5, 13, 7],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
-			"faces": {
-				"north": {"uv": [0, 0, 3, 3], "texture": "#1"},
-				"east": {"uv": [0, 0, 7, 3], "texture": "#1"},
-				"south": {"uv": [0, 0, 3, 3], "texture": "#1"},
-				"west": {"uv": [0, 0, 7, 3], "texture": "#1"},
-				"up": {"uv": [0, 0, 3, 7], "texture": "#1"},
-				"down": {"uv": [0, 0, 3, 7], "texture": "#1"}
-			}
-		}
-	],
-	"groups": [
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [0, 1]
-		}
-	]
+  "parent": "minecraft:block/fencier_fence_side",
+  "textures": {
+    "texture": "minecraft:block/dark_oak_planks"
+  }
 }
